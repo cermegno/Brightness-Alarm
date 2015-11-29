@@ -5,5 +5,5 @@ Parts required:
  - Particle Photon connected with USB cable
  - 1 x photoresistor
  - 1 x 330 Ohm resistor
- - Breadbord
+ - Breadboard
  - Some jumper wires
